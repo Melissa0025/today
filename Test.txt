@@ -1,0 +1,10 @@
+Solve the following exercises:
+
+1.	Create a simple Junit test and run it.
+2.	Write unit tests for Addition, Subtraction, Multiplication and Division methods.
+3.	Using appropriate annotation change the name of these methods in test window.
+4.	Study the working of life cycle hooks (Use print statements for better understanding).
+5.	Skip a test method using suitable annotations.
+6.	Disable the test on a particular operating system(any ONE).
+7.	Using TDD, write a method to reverse an array.
+8.	Using TDD, write a method to check whether a string is a palindrome.
